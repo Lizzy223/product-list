@@ -109,7 +109,7 @@ const Card = ({dessert, updateQuantity, addToCart, cartItem}) => {
                 <div style={{ padding: '1rem' }}>
                   <p style={{
                     fontSize: '0.875rem',
-                    color: '#666',
+                    color: 'hsl(228, 12%, 48%)',
                     marginBottom: '0.5rem'
                   }}>
                     {dessert.category}
